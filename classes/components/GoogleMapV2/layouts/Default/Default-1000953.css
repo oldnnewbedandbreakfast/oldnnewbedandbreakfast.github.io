@@ -1,0 +1,4 @@
+.map-widget .disabled {
+  pointer-events: none;
+  cursor: default;
+}
